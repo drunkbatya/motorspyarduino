@@ -1,6 +1,6 @@
  // MotorSpy firmware v  1.3
 // Written by DrunkBatya
-#include "SpyTest.h"
+#include "MotorSpyArduino.h"
 #include "modbus.c"
 
 void (* softwareReset) (void) = 0;
